@@ -1,5 +1,3 @@
-// EXTRA CREDIT STEP 7: Astronauts can now attack aliens; their speed changes randomly with gravity
-
 #ifndef ASTRONAUT
 #define ASTRONAUT
 
