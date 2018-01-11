@@ -8,9 +8,9 @@ Person::Person() : Game_Object('x')
 {
   speed = 5;
   health = 5;
-  attack_strength = 2; // EXTRA CREDIT
-  range = 2.0; // EXTRA CREDIT
-  target = NULL; // EXTRA CREDIT
+  attack_strength = 2; 
+  range = 2.0; 
+  target = NULL;
   cout << "Person default constructed." << endl;
 }
 
@@ -18,9 +18,9 @@ Person::Person(char in_code) : Game_Object(in_code)
 {
   speed = 5;
   health = 5;
-  range = 2.0; // EXTRA CREDIT
-  attack_strength = 2; // EXTRA CREDIT
-  target = NULL; // EXTRA CREDIT
+  range = 2.0; 
+  attack_strength = 2; 
+  target = NULL; 
   state = 's';
   cout << "Person constructed." << endl;
 }
@@ -29,9 +29,9 @@ Person::Person(Cart_Point in_loc, int in_id, char in_code) : Game_Object(in_loc,
 {
   speed = 5;
   health = 5;
-  range = 2.0; // EXTRA CREDIT
-  attack_strength = 2;// EXTRA CREDIT
-  target = NULL; // EXTRA CREDIT
+  range = 2.0; 
+  attack_strength = 2;
+  target = NULL; 
   cout << "Person constructed." << endl;
 }
 
