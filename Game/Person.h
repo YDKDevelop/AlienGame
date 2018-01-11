@@ -27,18 +27,18 @@ public:
   virtual void go_to_station(Space_Station*);
 
   double get_speed();
-  Cart_Point get_destination(); // EXTRA CREDIT: added getter for alien chase
-  void change_speed(double in_speed); // EXTRA CREDIT: change speed due to gravity changes
+  Cart_Point get_destination(); 
+  void change_speed(double in_speed); 
 
-  void start_attack(Alien* in_target); // EXTRA CREDIT: Astronaut can now attack
+  void start_attack(Alien* in_target); 
 
 protected:
   bool update_location();
   void setup_destination(Cart_Point);
   double speed;
-  double range; // EXTRA CREDIT: Astronaut fights back
-  double attack_strength; // EXTRA CREDIT
-  Alien* target; // EXTRA CREDIT
+  double range; 
+  double attack_strength; 
+  Alien* target; 
   int health;
 
 private:
