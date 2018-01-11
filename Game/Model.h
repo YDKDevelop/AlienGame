@@ -1,4 +1,3 @@
-// EXTRA CREDIT STEP 7: Astronauts now attack aliens; game can implement computer-controlled aliens
 
 #ifndef MODEL
 #define MODEL
