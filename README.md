@@ -1,7 +1,7 @@
 # AlienGame
 Astronaut_Alien Game 
 
-###Example Full Run
+<b>Example Full Run</b><br>
 '''bash
   $ cd Game
   $ ls
