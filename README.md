@@ -2,7 +2,7 @@
 Astronaut_Alien Game 
 
 <b>Example Full Run</b><br>
-'''bash
+'''sh
   $ cd Game
   $ ls
   $ make
