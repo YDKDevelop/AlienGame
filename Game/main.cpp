@@ -10,9 +10,7 @@ using namespace std;
 int main()
 {
   // Intro statements
-  cout << "EC327: Introduction to Software Engineering" << endl;
-  cout << "Fall 2017" << endl;
-  cout << "Programming Assignment 4" << endl;
+  cout << "Alien Invasion Game" << endl;
 
   // command holds first char in user input to determine next action
   char command;
