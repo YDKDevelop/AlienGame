@@ -45,6 +45,9 @@ been done.
  "quit": terminate the program
  ```
  
+ # Sample Output
+Feel free to look at [SampleOutput.txt](SampleOutput.txt) for a full example
+ 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
