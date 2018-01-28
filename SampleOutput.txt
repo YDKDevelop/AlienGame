@@ -1,6 +1,4 @@
-EC327: Introduction to Software Engineering
-Fall 2017
-Programming Assignment 3
+
 Game_Object constructed.
 Person constructed.
 Astronaut constructed.
